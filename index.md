@@ -10,7 +10,7 @@ show_sidebar: false
 
 ## News
 
-* 05.04.2025 - The list of accepted mini-symposia can be found [here](/accepted-minisymposia).
+* 05.04.2025 - The list of accepted mini-symposia can be found [here](./accepted-minisymposia).
 
 # Welcome to ParCFD
 
