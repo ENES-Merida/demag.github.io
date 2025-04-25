@@ -1,0 +1,48 @@
+#- name: Docs
+#  link: /docs/
+- name: Call for contributions
+  link: /#
+  dropdown:
+    - name: Call for minisymposia
+      link: /call-minisymposia/
+    - name: Call for papers
+      link: /call-papers/
+#    - name: Landing Page With Callouts
+#      link: /landing/
+#    - name: Promo Page
+#      link: /promo-page/
+#    - name: Sponsors Page
+#      link: /sponsors/
+#    - name: Image Gallery
+#      link: /gallery/
+#    - name: Products
+#      link: /products/
+#    - name: Recipe Page
+#      link: /example-recipe/
+#    - name: Showcase
+#      link: /showcase/
+- name: About 36th ParCFD
+  link: /#
+  dropdown:
+    - name: Key dates and registration
+      link: /key-dates-registration/
+    - name: Invited Speakers
+      link: /invited-speakers/
+    - name: Local Committee
+      link: /committees/
+#    - name: Information for Presenters, Listeners and sessions Chairs
+#      link: /information-presenters-listeners-session/
+- name: Travelling
+  link: /#
+  dropdown:
+    - name: Accomodation
+      link: /accomodation/
+    - name: Venue
+      link: /venue/
+- name: Programme
+  link: /#
+  dropdown:
+    - name: Accepted Mini-Symposia
+      link: /accepted-minisymposia/
+#- name: Blog
+#  link: /blog/

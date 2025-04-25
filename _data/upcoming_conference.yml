@@ -1,0 +1,13 @@
+intro: |-
+  
+items:
+  - title: Mexico
+    subtitle: Date follows
+    description: |-
+      The next ParCFD Conference 2025 will be held in Mexico
+    image: /img/2025_mexico.jpg
+    image_ratio: is-16by9
+    link: https://www.parcfd2025.org
+    link_text: Go to the ParCFD 2025 website
+    #tags: Bulma,CSS,Jekyll
+    #github: chrisrhymes/chrisrhymes.github.io

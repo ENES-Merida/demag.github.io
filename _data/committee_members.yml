@@ -1,0 +1,78 @@
+- tier_name: Conference Chair
+  size: small
+  description: |-
+  sponsors:
+    - name: |-
+        Dr. Juan Carlos Cajas García,
+        ENES-Mérida, UNAM
+- tier_name: Local Organizing Committee
+  size: small
+  description: |-
+  sponsors:
+    - name: |-
+        Dr. Erick Salcedo Álvarez,
+        ENES-Mérida, UNAM
+    - name: |-
+        Dr. Juan Manuel Rivero,
+        ENES-Mérida, UNAM
+    - name: |-
+        M.C. Edwin Enrique Pérez R.,
+        ENES-Mérida, UNAM
+    - name: |-
+        Dr. Carlos Francisco Brito L.,
+        Universidad Autónoma de Yucatán
+- tier_name: International Scientific Advisory Committee
+  size: small
+  description: |-
+    The members constitute the decision body of ParCFD
+  sponsors:
+    - name: Ramesh K. Agarwal, Washington University, USA
+    - name: Hasan U. Akay, Atilim University, Turkiye
+    - name: Lorena Barba, George Washington University, USA
+    - name: Rupak Biswas, NASA-Ames Research Center, USA
+    - name: Akin Ecer, IUPUI, USA
+    - name: David R. Emerson, Daresbury Laboratory, UK
+    - name: Marco Fossati, University of Strathclyde, UK
+    - name: Wagdi Habashi, McGill University, Canada
+    - name: Guillaume Houzeaux, Barcelona Supercomputing Center, Spain
+      profile: https://www.bsc.es/houzeaux-guillaume
+    - name: David E. Keyes, KAUST, Saudi Arabia
+    - name: Trond Kvamsdal, SINTEF, Norway
+    - name: Jang-Hyuk Kwon, Korea Institute of Science and Technology, Korea
+    - name: Chao-An Lin, National Tsing Hua University, Taiwan
+    - name: Andreas Lintermann, Jülich Supercomputing Center, Germany
+      profile: https://www.fz-juelich.de/profile/lintermann_a
+    - name: James McDonough, University of Kentucky, USA
+    - name: Youssef Mesri, Mines Paris Tech, France
+    - name: Koji Morinishi, Kyoto Institute of Technology, Japan
+    - name: Sergey Peigin, Israel Aircraft Industries, Israel
+    - name: Stefano Rolfo, STFC Daresbury Laboratory, UK
+    - name: Damien Tromeur-Dervout, Université Claude Bernard Lyon I, France
+    - name: Ismail H. Tuncer, Middle East Technical University, Turkiye
+    - name: Jong-Shinn Wu, National Chiao Tung University, Taiwan
+    - name: Huidan (Whitney) Yu, IUPUI, USA
+    - name: Yonghao Zhang, Chinese Academy of Sciences, China
+- tier_name: Honorary members
+  size: small
+  description: |-
+  sponsors:
+    - name: Shahrouz Aliabadi, Jackson State University, USA
+    - name: Ron Bailey, NASA-Ames Research Center, USA
+    - name: Gunther Brenner, Clausthal University of Technology, Germany
+    - name: Boris Chetverushkin, Russian Academy of Sciences, Russia
+    - name: Anil Deane, University of Maryland, USA
+    - name: Jocelyne Erhel, SAGE INRIA-team, France
+    - name: Pat Fox, IUPUI, USA
+    - name: Marc Garbey, University of Houston, USA
+    - name: Ulgen Gulcat, Istanbul Technical University, Turkiye
+    - name: Keqin Li, Hunan University, China
+    - name: Isaac Lopez, Army Research Laboratory NASA Glenn, USA
+    - name: Kenichi Matsuno, Kyoto Institute of Technology, Japan
+    - name: Charlie Nietubicz, Battelle, USA
+    - name: Jacques Periaux, Dassault Aviation, France
+    - name: Nobuyuki Satofuka, University of Shiga Prefecture, Japan
+    - name: Pasquale Schiano, Centro Italiano Ricerche Aerospaziali, Italy
+    - name: Daniela di Serafino, Seconda Università degli studi di Napoli, Italy
+    - name: Matthew Smith, National Cheng Kung University, Taiwan
+    - name: Mariano Vazques, Barcelona Supercomputing Center, Spain
+    - name: Gerhard Wellein, University of Erlangen, Germany
