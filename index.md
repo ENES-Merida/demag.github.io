@@ -2,7 +2,7 @@
 title: Departamento de Matemáticas Aplicadas y Geociencias
 subtitle: 24 - 26 November 2025, Merida, Yucatan, Mexico
 layout: page
-hero_image: /img/plazaGrandeSideA.webp
+hero_image: /demag.github.io/img/plazaGrandeSideA.webp
 hero_height: is-large
 hero_darken: true
 show_sidebar: false
@@ -10,7 +10,7 @@ show_sidebar: false
 
 ## News
 
-* 05.04.2025 - The list of accepted mini-symposia can be found [here](/accepted-minisymposia).
+* 05.04.2025 - The list of accepted mini-symposia can be found [here]({{ '/accepted-minisymposia' | relative_url }}).
 
 # Welcome to ParCFD
 
