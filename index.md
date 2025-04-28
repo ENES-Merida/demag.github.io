@@ -1,5 +1,5 @@
 ---
-title: 36th Parallel CFD international conference 2025
+title: Departamento de Matemáticas Aplicadas y Geociencias
 subtitle: 24 - 26 November 2025, Merida, Yucatan, Mexico
 layout: page
 hero_image: /img/plazaGrandeSideA.webp
