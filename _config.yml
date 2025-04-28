@@ -1,15 +1,15 @@
 # Site Settings
 lang: es
-title: ParCFD International Conference 2025
-tagline: ParCFD International Conference 2025
+title: Departamento de Matemáticas Aplicadas y Geociencias
+tagline: Departamento de Matemáticas Aplicadas y Geociencias
 email: carlos.cajas@enesmerida.unam.mx
 description: >
-  Website of the 36th Parallel CFD International Conference 2025
+  Sitio web del Departamento de Matemáticas Aplicadas y Geociencias
 baseurl: "/demag.github.io"
 url: "https://enes-merida.github.io"
 permalink: pretty
-favicon: /img/ParCFD_logo_tr.png
 #/path/to/favicon.png
+favicon: /img/logo-enes-mid.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'

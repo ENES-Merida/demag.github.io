@@ -1,6 +1,6 @@
 ---
 title: Departamento de Matemáticas Aplicadas y Geociencias
-subtitle: 24 - 26 November 2025, Merida, Yucatan, Mexico
+subtitle: ENES Unidad Mérida - UNAM
 layout: page
 hero_image: /demag.github.io/img/plazaGrandeSideA.webp
 hero_height: is-large
@@ -10,23 +10,17 @@ show_sidebar: false
 
 ## News
 
-* 05.04.2025 - The list of accepted mini-symposia can be found [here]({{ '/accepted-minisymposia' | relative_url }}).
+* Pronto publicaremos activiades y oportunidades académicas.
+<!-- * 05.04.2025 - The list of accepted mini-symposia can be found [here]({{ '/accepted-minisymposia' | relative_url }}). -->
 
-# Welcome to ParCFD
+# DEPARTAMENTO DE MATEMÁTICAS APLICADAS Y GEOCIENCIAS
 
-The Parallel Computational Fluid Dynamics (ParCFD) 2025 Conference is the 36th event in the ParCFD series. ParCFD is an annual international forum devoted to the discussion of recent developments and applications of parallel computing in the field of Computational Fluid Dynamics and related disciplines. 
+En este departamento se estudian procesos físicos del planeta a través del uso y desarrollo de herramientas de monitoreo y de simulación computacional para generar conocimiento sobre los sistemas terrestres.
 
-The topics of interest can cover, but are not limited to:
 
-* Parallel Algorithms and Solvers
-* Extreme-Scale Computing including Computations on Novel Hardware Technologies
-* Mechanical and Aerospace Engineering Applications
-* Multi-Phase Flows and Chemical Engineering Applications
-* Atmospheric and Ocean Modelling
-* Verification, Validation and Uncertainty Quantification (VVUQ) in CFD Modelling
-* Turbulence, Combustion, and Acoustics
-* Multi-Disciplinary Design Optimization
-* Multi-Scale and Multi-Physics Applications
-* Astrophysical Fluid Dynamics
-* Software Frameworks and C/G-PU Computing
-* AI and Machine Learning for CFD
+## OBJETIVOS
+- Atender problemáticas socio-ambientales relacionadas con procesos físicos terrestres mediante el estudio y comprensión de sistemas oceánicos, del continente y de la atmósfera, así como sus interacciones e interrelaciones. 
+
+- Busca desarrollar y aplicar herramientas computacionales de alto desempeño, así como de técnicas de monitoreo apoyadas en tecnologías emergentes para la generación de datos experimentales y mediciones en campo. 
+
+- El carácter multidisciplinario del departamento propicia sinergias tanto con grupos de investigación como con organizaciones y actores sociales.
