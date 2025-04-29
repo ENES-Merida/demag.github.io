@@ -7,5 +7,24 @@ $primary: #004080;
 /* $navbar-item-color: #ffffff; */
 /* $navbar-item-hover-color: #ffcc00; */
 /* $navbar-item-hover-background-color: #003366; */
+
+// Estilo para cada bloque de persona
+.person-block {
+  text-align: center;
+
+  img {
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+
+  blockquote {
+    border-left: 4px solid #ccc;
+    padding-left: 16px;
+    color: #555;
+    height: 140px;
+  }
+}
 // Import Main CSS file from theme
 @import "main";

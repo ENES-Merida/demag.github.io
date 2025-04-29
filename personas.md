@@ -15,7 +15,7 @@ show_sidebar: false
 <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Erick+Salcedo" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 <div style="text-align: center;">
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555; height: 140px;">
         <b>Dr. Erick Salcedo Álvarez</b><br/>
         Profesor de Carrera Asociado C<br/>
         PEE | SNI I
@@ -29,136 +29,132 @@ show_sidebar: false
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
   
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Cecilia+Enriquez" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <div>
-        <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
-            <b>Dra. Cecilia Enríquez Ortiz</b><br/>
-            Profesor de Carrera Titular B<br/>
-            PRIDE D | SNI II
-        </blockquote>
-    </div>
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Cecilia+Enriquez" alt="organizer"/>
+    <blockquote>
+        <b>Dra. Cecilia Enríquez Ortiz</b><br/>
+        Profesor de Carrera Titular B<br/>
+        PRIDE D | SNI II
+    </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Cesar+Liera" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <div>
-        <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
-            <b>MC. César Alberto Liera Grijalva</b><br/>
-            Técnico Académico Asociado C<br/>
-            PEE | PEI
-        </blockquote>
-    </div>
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Cesar+Liera" alt="organizer"/>
+    <blockquote>
+        <b>MC. César Alberto Liera Grijalva</b><br/>
+        Técnico Académico Asociado C<br/>
+        PEE | PEI
+    </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Cesar+Trevino" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Cesar+Trevino" alt="organizer"/>
+    <blockquote>
         <b>Dr. César Treviño Treviño</b><br/>
         Profesor de Carrera Titular C<br/>
         PRIDE D | SNI III
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Edwin+Perez" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Edwin+Perez" alt="organizer"/>
+    <blockquote>
         <b>MC. Edwin Enrique Pérez Rodríguez</b><br/>
         Técnico Académico Asociado C<br/>
         PEE | PEI
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Ismael+Marino" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Ismael+Marino" alt="organizer"/>
+    <blockquote>
         <b>Dr.Ismael Mariño Tapia</b><br/>
         Profesor de Carrera Titular C<br/>
         PEE | PEI | SNI III
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Iris+Neri" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Iris+Neri" alt="organizer"/>
+    <blockquote>
         <b>Dra. Iris Neri Flores</b><br/>
         Profesor de Carrera Asociado C
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Jesus+Aragon" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Jesus+Aragon" alt="organizer"/>
+    <blockquote>
         <b>M.I. Jesús Aragón González</b><br/>
         Técnico Académico Asociado C
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Cajas" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Cajas" alt="organizer"/>
+    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555; height: 140px;">
         <b>Dr. Juan Carlos Cajas García</b><br/>
         Profesor de Carrera Titular A<br/>
         PRIDE C | SNI I
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juana+Escobar" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juana+Escobar" alt="organizer"/>
+    <blockquote>
         <b>Dra. Juana Elia Escobar Sánchez</b><br/>
         Técnico Académico Asociado C<br/>
         PEE
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Joaquin+Morales" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Joaquin+Morales" alt="organizer"/>
+    <blockquote>
         <b>Ing. Joaquín Morales Rosales</b><br/>
         Técnico Académico Titular A de T.C.
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Jose+Pintado" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Jose+Pintado" alt="organizer"/>
+    <blockquote>
         <b>Dr. José Carlos Pintado Patiño</b><br/>
         Profesor de Carrera Asociado C<br/>
         PEE | PEI | SNI I
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Rivero" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Rivero" alt="organizer"/>
+    <blockquote>
         <b>Juan Manuel Rivero Fernández</b><br/>
         Profesor de Carrera Asociado C<br/>
         PEI | Candidato SNI
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Zavala" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Zavala" alt="organizer"/>
+    <blockquote>
         <b>Dr. Juan Zavala Reyes</b><br/>
         Profesor de Carrera Asociado C<br/>
         PEE | Candidato SNI
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Misael+Diaz" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Misael+Diaz" alt="organizer"/>
+    <blockquote>
         <b>Dr. Misael Díaz Asencio</b><br/>
         Profesor de Carrera Asociado C<br/>
         PEE | PEI | SNI I
     </blockquote>
   </div>
 
-  <div style="text-align: center;">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Sandra+Sauza" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555;">
+  <div class="person-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Sandra+Sauza" alt="organizer"/>
+    <blockquote>
         <b>Ing. Sandra Sauza Escoto</b><br/>
         Técnico Académico Asociado C<br/>
         PRIDE C
