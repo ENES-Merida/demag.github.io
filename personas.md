@@ -2,8 +2,8 @@
 layout: page
 title: Planta Académica
 subtitle: DeMAG
-hero_image:  /demag.github.io/img/monumentoPatriaB.webp
-hero_height: is-medium
+hero_image:  /demag.github.io/img/buzoA.webp
+hero_height: is-large
 hero_darken: true
 show_sidebar: false
 ---
