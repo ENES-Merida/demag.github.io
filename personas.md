@@ -27,7 +27,7 @@ show_sidebar: false
 # Miembros del Departamento
 
 ---
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
   
   <div style="text-align: center;">
     <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Cecilia+Enriquez" alt="organizer" style="width: 100%; height: auto; max-width: 200px; margin: 0 auto;"/>
