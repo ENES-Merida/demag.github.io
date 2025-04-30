@@ -2,8 +2,8 @@
 layout: page
 title: Artículos y Proyectos
 subtitle: DeMAG
-hero_image:  /demag.github.io/img/plazaGrandeSideB.webp
-hero_height: is-medium
+hero_image:  /demag.github.io/img/cesar.webp
+hero_height: is-large
 hero_darken: true
 show_sidebar: false
 ---
