@@ -8,7 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## News
+## Noticias
 
 * Pronto publicaremos activiades y oportunidades académicas.
 <!-- * 05.04.2025 - The list of accepted mini-symposia can be found [here]({{ '/accepted-minisymposia' | relative_url }}). -->
