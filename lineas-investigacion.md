@@ -2,7 +2,7 @@
 layout: page
 title: Líneas de Investigación
 subtitle: DeMAG
-hero_image:  /demag.github.io/img/RendonPeniche.webp
+hero_image: /img/RendonPeniche.webp
 hero_height: is-medium
 hero_darken: true
 show_sidebar: false
@@ -22,4 +22,4 @@ Las líneas de investagación del Departamento de Matemáticas Aplicadas y Geoci
     Investigador A   
 
 - **Geología**  
-    Investigador A   
+    Investigador A
