@@ -6,7 +6,7 @@ email: carlos.cajas@enesmerida.unam.mx
 description: >
   Sitio web del Departamento de Matemáticas Aplicadas y Geociencias
 baseurl: "/demag.github.io"
-url: "https://enes-merida.github.io"
+url: "www.demag.enesmerida.unam.mx"
 permalink: pretty
 #/path/to/favicon.png
 favicon: /img/logo-enes-mid.png

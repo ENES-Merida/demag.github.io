@@ -2,7 +2,7 @@
 title: Conoce nuestro trabajo
 subtitle: DeMAG
 layout: page
-hero_image: /demag.github.io/img/isma.webp
+hero_image: /img/isma.webp
 hero_height: is-medium
 hero_darken: true
 show_sidebar: false
