@@ -128,7 +128,7 @@ show_sidebar: false
   <div class="person-block">
     <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Rivero" alt="organizer"/>
     <blockquote>
-        <b>Juan Manuel Rivero Fernández</b><br/>
+        <b>Dr. Juan Manuel Rivero Fernández</b><br/>
         Profesor de Carrera Asociado C<br/>
         PEI | Candidato SNI
     </blockquote>
