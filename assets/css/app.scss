@@ -7,6 +7,7 @@ $primary: #004080;
 /* $navbar-item-color: #ffffff; */
 /* $navbar-item-hover-color: #ffcc00; */
 /* $navbar-item-hover-background-color: #003366; */
+$container-max-width: 1024px;  // Por ejemplo, un ancho máximo de 960px
 
 // Estilo para cada bloque de persona
 .person-block {
@@ -25,6 +26,11 @@ $primary: #004080;
     color: #555;
     height: 140px;
   }
+}
+/* Cambia el color del texto al pasar el mouse, sin cambiar el fondo */
+.navbar-item:hover {
+  /* background-color: transparent !important; */
+  color: #ffd700 !important;
 }
 // Import Main CSS file from theme
 @import "main";
