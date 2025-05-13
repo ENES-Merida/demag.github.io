@@ -3,6 +3,6 @@
 - name: Personas
   link: /personas/
 - name: Líneas de Investigación
-  link: /lineas-investigacion
+  link: /lineas-investigacion/
 - name: Artículos y Proyectos
-  link: proyectos
+  link: /proyectos/

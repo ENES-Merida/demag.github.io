@@ -32,5 +32,10 @@ $container-max-width: 1024px;  // Por ejemplo, un ancho máximo de 960px
   /* background-color: transparent !important; */
   color: #ffd700 !important;
 }
+.navbar-item.is-active {
+  color: #ffd700;
+  background-color: transparent;
+  border-bottom: 2px solid #ffd700;
+}
 // Import Main CSS file from theme
 @import "main";
