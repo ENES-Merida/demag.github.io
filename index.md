@@ -3,7 +3,7 @@ title: Departamento de Matemáticas Aplicadas y Geociencias
 subtitle: ENES Unidad Mérida - UNAM
 layout: page
 hero_image: /img/simula.webp
-hero_height: is-large
+hero_height: is-medium
 hero_darken: true
 show_sidebar: false
 ---
