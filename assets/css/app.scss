@@ -2,7 +2,7 @@
 ---
 
 /* $navbar-height: 110px; // o la altura que tú desees, por ejemplo 80px */
-$primary: #004080;
+$primary: #002B7A;
 /* $navbar-background-color: #004080; */
 /* $navbar-item-color: #ffffff; */
 /* $navbar-item-hover-color: #ffcc00; */
@@ -30,12 +30,12 @@ $container-max-width: 1024px;  // Por ejemplo, un ancho máximo de 960px
 /* Cambia el color del texto al pasar el mouse, sin cambiar el fondo */
 .navbar-item:hover {
   /* background-color: transparent !important; */
-  color: #ffd700 !important;
+  color: #D59F0F !important;
 }
 .navbar-item.is-active {
-  color: #ffd700;
+  color: #D59F0F;
   background-color: transparent;
-  border-bottom: 2px solid #ffd700;
+  border-bottom: 2px solid #D59F0F;
 }
 // Import Main CSS file from theme
 @import "main";
