@@ -1,7 +1,12 @@
 - name: Sobre nosotros
   link: /demag/
-- name: Personas
-  link: /personas/
+- name: Integrantes
+  link: /#
+  dropdown:
+    - name: Personal Académico
+      link: /personas/
+    - name: Nuestros Estudiantes
+      link: /alumnos/
 - name: Líneas de Investigación
   link: /lineas-investigacion/
 - name: Artículos y Proyectos

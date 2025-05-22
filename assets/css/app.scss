@@ -27,6 +27,7 @@ $container-max-width: 1024px;  // Por ejemplo, un ancho máximo de 960px
     height: 140px;
   }
 }
+
 /* Cambia el color del texto al pasar el mouse, sin cambiar el fondo */
 .navbar-item:hover {
   /* background-color: transparent !important; */
@@ -37,5 +38,39 @@ $container-max-width: 1024px;  // Por ejemplo, un ancho máximo de 960px
   background-color: transparent;
   border-bottom: 2px solid #D59F0F;
 }
+
+/* Estilos para navbar-link en dropdowns */
+/* .navbar-link:hover {
+  background-color: transparent !important;
+  color: #D59F0F !important;
+} */
+
+/* .navbar-link.is-active {
+  color: #D59F0F;
+  background-color: transparent;
+  border-bottom: 2px solid #D59F0F;
+} */
+
+/* Cuando el dropdown tiene un hijo activo, el padre se ve activo */
+.navbar-item.has-dropdown.parent-active .navbar-link {
+  color: #D59F0F;
+  background-color: transparent;
+  border-bottom: 2px solid #D59F0F;
+}
+
+/* Mantener hover en dropdowns sin hijos activos */
+/* .navbar-item.has-dropdown:not(.parent-active) .navbar-link:hover {
+  background-color: transparent !important;
+  color: #D59F0F !important;
+  border-bottom: none;
+} */
+
+/* No interferir con el estado activo del padre */
+/* .navbar-item.has-dropdown.parent-active:hover .navbar-link.is-active {
+  color: #D59F0F;
+  border-bottom: 2px solid #D59F0F;
+  background-color: transparent;
+} */
+
 // Import Main CSS file from theme
 @import "main";
