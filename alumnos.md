@@ -2,7 +2,7 @@
 layout: page
 title: Nuestros Estudiantes
 subtitle: DeMAG
-hero_image: /demag.github.io/img/cavidadAR242.png
+hero_image: /img/cavidadAR242.png
 hero_height: is-small
 hero_darken: true
 show_sidebar: false
