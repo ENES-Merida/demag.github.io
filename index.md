@@ -2,8 +2,8 @@
 title: Departamento de Matemáticas Aplicadas y Geociencias
 subtitle: ENES Unidad Mérida - UNAM
 layout: page
-hero_image: /img/cavidadAR25.png
-hero_height: is-small
+hero_image: /img/cavidadAR251.png
+hero_height: is-medium
 hero_darken: false
 show_sidebar: false
 ---
