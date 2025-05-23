@@ -126,11 +126,14 @@ show_sidebar: false
   </div>
 
   <div class="person-block">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Rivero" alt="organizer"/>
+    <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="profesor"/>
     <blockquote>
-        <b>Dr. Juan Manuel Rivero Fernández</b><br/>
+        <a href="{{ site.baseurl }}/drrivero/">
+            <b>Dr. Juan Manuel Rivero Fernández</b><br/><br/>
+        </a>
         Profesor de Carrera Asociado C<br/>
-        PEI | Candidato SNI
+        <!-- PEI | Candidato SNI -->
+        <!-- <a href="mailto:jmanuel.rivero@enesmerida.unam.mx">jmanuel.rivero@enesmerida.unam.mx</a> -->
     </blockquote>
   </div>
 
