@@ -40,7 +40,7 @@ show_sidebar: false
         Artículos Recientes
     </h1> 
     <ul>
-        <li class="mb-4">Rivero, J.M., Méndez Lavielle, F. Earth-air thermal siphon as a passive air-conditioning system for an arid climate, International Journal of Heat and Mass Transfer, 2023, 210, 124171al, DOI: 10.1016/j.ijheatmasstransfer.2023.124171</li>
+        <li class="mb-4">Rivero, J.M., Méndez Lavielle, F. Earth-air thermal siphon as a passive air-conditioning system for an arid climate (2023) International Journal of Heat and Mass Transfer, 210, 124171al, DOI: 10.1016/j.ijheatmasstransfer.2023.124171</li>
         <li class="mb-4">Hermanns M., Rivero J.M., On the quasi-steady limit of the enhanced multipole method for the thermal response of geothermal boreholes (2023) Applied Thermal Engineering, 225, art. no. 120121, DOI: 10.1016/j.applthermaleng.2023.120121 </li>
         <li class="mb-4">Rivero J.M., Hermanns M., Modeling the time evolution of geothermal boreholes during peak heating and cooling demands (2021) Journal of Physics: Conference Series, 2116 (1), art. no. 012101, DOI: 10.1088/1742-6596/2116/1/012101</li>
         <li class="mb-4">Hermanns M., Rivero J.M., On the symmetry properties of the network of thermal resistances representing the thermal response of slender geothermal boreholes (2021) Geothermics, 94, art. no. 102078, DOI: 10.1016/j.geothermics.2021.102078</li>
