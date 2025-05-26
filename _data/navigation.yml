@@ -1,9 +1,9 @@
 - name: Sobre nosotros
   link: /demag/
-- name: Integrantes
+- name: Nuestra Gente
   link: /#
   dropdown:
-    - name: Personal Académico
+    - name: Planta Académica
       link: /personas/
     - name: Nuestros Estudiantes
       link: /alumnos/
