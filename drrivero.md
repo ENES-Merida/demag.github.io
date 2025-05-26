@@ -8,10 +8,9 @@ hero_darken: true
 show_sidebar: false
 ---
 
-<!-- <div class="columns is-flex is-justify-content-center is-align-items-center pb-6"> -->
 <div class="columns is-flex is-align-items-center is-multiline pb-6">
     <div class="column">
-        <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="organizer" class="ng_imagen"/>
+        <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="profesor" class="ng_imagen"/>
     </div>
     <div class="column has-text-centered">
         <h3 class="has-text-primary">Dr. Juan Manuel Rivero Fernández</h3>

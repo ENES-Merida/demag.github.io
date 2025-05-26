@@ -12,10 +12,10 @@ show_sidebar: false
 
 ---
 
-<img loading="lazy" src="https://avatar.iran.liara.run/username?username=Erick+Salcedo" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
-<div style="text-align: center;">
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555; height: 140px;">
+<div class="coordinador-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Erick+Salcedo" alt="coordinador"/>
+    <blockquote>
         <b>Dr. Erick Salcedo Álvarez</b><br/>
         Profesor de Carrera Asociado C<br/>
         PEE | SNI I
