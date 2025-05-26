@@ -8,7 +8,8 @@ hero_darken: true
 show_sidebar: false
 ---
 
-<div class="columns is-flex is-justify-content-center is-align-items-center pb-6">
+<!-- <div class="columns is-flex is-justify-content-center is-align-items-center pb-6"> -->
+<div class="columns is-flex is-align-items-center is-multiline pb-6">
     <div class="column">
         <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="organizer" class="ng_imagen"/>
     </div>
