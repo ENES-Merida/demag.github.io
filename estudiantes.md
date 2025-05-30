@@ -25,6 +25,19 @@ show_sidebar: false
         </div>
     </blockquote>
   </div>
+  
+  <div class="alumnos-block">
+    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Karla+Figueroa" alt="estudiante"/>
+    <blockquote>
+        <strong class="has-text-primary">Karla Aracely Figueroa Pérez</strong><br/>
+        <em>Estudiante de Maestría</em><br/>
+        <strong class="has-text-primary">Tesista</strong><br/><br/>
+        <div class="has-text-justified">
+            <strong class="has-text-primary">Proyecto de Tesis:</strong> <em>Dispositivo Termosolar Doméstico para una Transición Energética Sostenible</em><br/><br/>
+            <strong class="has-text-primary">Beca:</strong> <em>Beca Nacional para Estudios de Posgrado, SECIHTI</em>
+        </div>
+    </blockquote>
+  </div>
 
   <!-- <div class="alumnos-block">
     <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Estudiante+B" alt="estudiante"/>
