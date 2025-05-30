@@ -8,7 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-<div class="columns is-flex is-align-items-center is-multiline pb-6">
+<div class="columns is-align-items-center is-multiline pb-6">
     <div class="column">
         <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="profesor" class="ng_imagen"/>
     </div>
