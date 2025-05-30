@@ -91,11 +91,12 @@ show_sidebar: false
   </div>
 
   <div class="person-block">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Cajas" alt="organizer"/>
-    <blockquote style="border-left: 4px solid #ccc; padding-left: 16px; color: #555; height: 140px;">
-        <b>Dr. Juan Carlos Cajas García</b><br/>
+    <img loading="lazy" src="{{ site.baseurl }}/img/drcajas.webp" alt="profesor"/>
+    <blockquote>
+        <a href="{{ site.baseurl }}/drcajas/">
+            <b>Dr. Juan Carlos<br/>Cajas García</b><br/><br/>
+        </a>
         Profesor de Carrera Titular A<br/>
-        PRIDE C | SNI I
     </blockquote>
   </div>
 
@@ -129,11 +130,9 @@ show_sidebar: false
     <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="profesor"/>
     <blockquote>
         <a href="{{ site.baseurl }}/drrivero/">
-            <b>Dr. Juan Manuel Rivero Fernández</b><br/><br/>
+            <b>Dr. Juan Manuel<br/>Rivero Fernández</b><br/><br/>
         </a>
         Profesor de Carrera Asociado C<br/>
-        <!-- PEI | Candidato SNI -->
-        <!-- <a href="mailto:jmanuel.rivero@enesmerida.unam.mx">jmanuel.rivero@enesmerida.unam.mx</a> -->
     </blockquote>
   </div>
 
