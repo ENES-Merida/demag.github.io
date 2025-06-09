@@ -27,9 +27,9 @@ show_sidebar: false
   </div>
   
   <div class="alumnos-block">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Karla+Figueroa" alt="estudiante"/>
+    <img loading="lazy" src="{{ site.baseurl }}/img/matkarla.webp" alt="estudiante"/>
     <blockquote>
-        <strong class="has-text-primary">Karla Aracely Figueroa Pérez</strong><br/>
+        <strong class="has-text-primary"> Mat. Karla Aracely Figueroa Pérez</strong><br/>
         <em>Estudiante de Maestría</em><br/>
         <strong class="has-text-primary">Tesista</strong><br/><br/>
         <div class="has-text-justified">
