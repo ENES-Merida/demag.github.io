@@ -8,19 +8,25 @@ hero_darken: false
 show_sidebar: false
 ---
 
-## Noticias
-
-* Pronto publicaremos activiades y oportunidades académicas.
-<!-- * 05.04.2025 - The list of accepted mini-symposia can be found [here]({{ '/accepted-minisymposia' | relative_url }}). -->
-
-# DEPARTAMENTO DE MATEMÁTICAS APLICADAS Y GEOCIENCIAS
-
-En este departamento se estudian procesos físicos del planeta a través del uso y desarrollo de herramientas de monitoreo y de simulación computacional para generar conocimiento sobre los sistemas terrestres.
-
-
-## OBJETIVOS
-- Atender problemáticas socio-ambientales relacionadas con procesos físicos terrestres mediante el estudio y comprensión de sistemas oceánicos, del continente y de la atmósfera, así como sus interacciones e interrelaciones. 
-
-- Busca desarrollar y aplicar herramientas computacionales de alto desempeño, así como de técnicas de monitoreo apoyadas en tecnologías emergentes para la generación de datos experimentales y mediciones en campo. 
-
-- El carácter multidisciplinario del departamento propicia sinergias tanto con grupos de investigación como con organizaciones y actores sociales.
+<div class="content">
+    <h2 class="has-text-primary">
+        Noticias
+    </h2>
+    <ul>
+        <li><strong>04.08.2025</strong> - 🎉 Felicitamos a nuestro colegas, al <a href="{{ site.baseurl }}/planta_academica/drcajas">Dr. Juan Carlos</a> por su promoción al Nivel II del Sistema Nacional de Investigadoras e Investigadores y al <a href="{{ site.baseurl }}/planta_academica/drrivero">Dr. Juan Manuel</a> por su Ingreso al Sistema Nacional de Investigadoras e Investigadores.</li>
+    </ul>
+    <h1 class="has-text-primary">
+        DEPARTAMENTO DE MATEMÁTICAS APLICADAS Y GEOCIENCIAS
+    </h1>
+    <p clas="has-text-justified">
+        En este departamento se estudian procesos físicos del planeta a través del uso y desarrollo de herramientas de monitoreo y de simulación computacional para generar conocimiento sobre los sistemas terrestres.
+    </p>
+    <h2 class="has-text-primary">
+        OBJETIVOS
+    </h2>
+    <ul class="has-text-justified">
+        <li> Atender problemáticas socio-ambientales relacionadas con procesos físicos terrestres mediante el estudio y comprensión de sistemas oceánicos, del continente y de la atmósfera, así como sus interacciones e interrelaciones.</li>
+        <li> Busca desarrollar y aplicar herramientas computacionales de alto desempeño, así como de técnicas de monitoreo apoyadas en tecnologías emergentes para la generación de datos experimentales y mediciones en campo.</li>
+        <li> El carácter multidisciplinario del departamento propicia sinergias tanto con grupos de investigación como con organizaciones y actores sociales.</li>
+    </ul>
+</div>

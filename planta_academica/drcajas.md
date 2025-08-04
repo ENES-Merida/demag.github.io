@@ -10,14 +10,14 @@ show_sidebar: false
 
 <div class="columns is-align-items-center is-multiline pb-6">
     <div class="column">
-        <img loading="lazy" src="{{ site.baseurl }}/img/drcajas.webp" alt="profesor" class="ng_imagen"/>
+        <img loading="lazy" src="{{ site.baseurl }}/img/drcajas.webp" alt="profesor" class="academicos_imagen"/>
     </div>
     <div class="column has-text-centered">
         <h3 class="has-text-primary">Dr. Juan Carlos Cajas García</h3>
         <p class="has-text-weight-bold is-family-sans-serif">
             Profesor Titular A de Tiempo Completo
             <br/>
-                PRIDE C | SNI I
+                PRIDE C | SNI II
             <br/>
             <br/>
             <a href="mailto:carlos.cajas@enesmerida.unam.mx">

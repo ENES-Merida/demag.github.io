@@ -8,10 +8,11 @@ hero_darken: true
 show_sidebar: false
 ---
 
-# Coordinador del Departamento de Matemáticas Aplicadas y Geociencias
+<h1 class="has-text-primary has-text-centered">
+    Coordinador del Departamento de Matemáticas Aplicadas y Geociencias
+</h1>
 
 ---
-
 
 <div class="coordinador-block">
     <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Erick+Salcedo" alt="coordinador"/>
@@ -24,7 +25,9 @@ show_sidebar: false
 
 ---
 
-# Miembros del Departamento
+<h1 class="has-text-primary has-text-centered">
+    Miembros del Departamento
+</h1>
 
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">

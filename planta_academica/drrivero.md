@@ -10,7 +10,7 @@ show_sidebar: false
 
 <div class="columns is-align-items-center is-multiline pb-6">
     <div class="column">
-        <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="profesor" class="ng_imagen"/>
+        <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="profesor" class="academicos_imagen"/>
     </div>
     <div class="column has-text-centered">
         <h3 class="has-text-primary">Dr. Juan Manuel Rivero Fernández</h3>
