@@ -30,10 +30,10 @@ show_sidebar: false
     <h1 class="has-text-centered has-text-primary">
         Líneas de Investigación
     </h1> 
-    <ul>
-        <li class="has-text-weight-bold is-family-sans-serif">Dinámica de fluidos computacional para flujos unidimensionales en tuberías.</li>
-        <li class="has-text-weight-bold is-family-sans-serif">Movimiento en flujos dentro de tubos causado por convección natural.</li>
-        <li class="has-text-weight-bold is-family-sans-serif">Problemas acoplados de fluido-dinámica y transferencia de calor.</li>
+    <ul class="has-text-weight-bold is-family-sans-serif">
+        <li>Dinámica de fluidos computacional para flujos unidimensionales en tuberías.</li>
+        <li>Movimiento en flujos dentro de tubos causado por convección natural.</li>
+        <li>Problemas acoplados de fluido-dinámica y transferencia de calor.</li>
     </ul>
     <h1 class="has-text-centered has-text-primary">
         Proyectos
@@ -47,13 +47,13 @@ show_sidebar: false
     <h1 class="has-text-centered has-text-primary">
         Artículos Recientes
     </h1> 
-    <ul>
-        <li class="mb-4 has-text-weight-bold is-family-sans-serif">Rivero, J.M., Méndez Lavielle, F. Earth-air thermal siphon as a passive air-conditioning system for an arid climate (2023) International Journal of Heat and Mass Transfer, 210, 124171al, DOI: 10.1016/j.ijheatmasstransfer.2023.124171</li>
-        <li class="mb-4 has-text-weight-bold is-family-sans-serif">Hermanns M., Rivero J.M., On the quasi-steady limit of the enhanced multipole method for the thermal response of geothermal boreholes (2023) Applied Thermal Engineering, 225, art. no. 120121, DOI: 10.1016/j.applthermaleng.2023.120121 </li>
-        <li class="mb-4 has-text-weight-bold is-family-sans-serif">Rivero J.M., Hermanns M., Modeling the time evolution of geothermal boreholes during peak heating and cooling demands (2021) Journal of Physics: Conference Series, 2116 (1), art. no. 012101, DOI: 10.1088/1742-6596/2116/1/012101</li>
-        <li class="mb-4 has-text-weight-bold is-family-sans-serif">Hermanns M., Rivero J.M., On the symmetry properties of the network of thermal resistances representing the thermal response of slender geothermal boreholes (2021) Geothermics, 94, art. no. 102078, DOI: 10.1016/j.geothermics.2021.102078</li>
-        <li class="mb-4 has-text-weight-bold is-family-sans-serif">Rivero J.M., Hermanns M., Enhanced multipole method for the transient thermal response of slender geothermal boreholes (2021) International Journal of Thermal Sciences, 164, art. no. 106531, DOI: 10.1016/j.ijthermalsci.2020.106531</li>
-        <li class="mb-4 has-text-weight-bold is-family-sans-serif">Hermanns M., Rivero J.M., Modeling the thermal response of geothermal boreholes during peak heating and cooling demands (2020) IOP Conference Series: Earth and Environmental Science, 588 (2), art. no. 022052, DOI: 10.1088/1755-1315/588/2/022052</li>
+    <ul class="mb-4 has-text-weight-bold is-family-sans-serif">
+        <li>Rivero, J.M., Méndez Lavielle, F. Earth-air thermal siphon as a passive air-conditioning system for an arid climate (2023) International Journal of Heat and Mass Transfer, 210, 124171, <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2023.124171">https://doi.org/10.1016/j.ijheatmasstransfer.2023.124171</a></li>
+        <li>Hermanns M., Rivero J.M., On the quasi-steady limit of the enhanced multipole method for the thermal response of geothermal boreholes (2023) Applied Thermal Engineering, 225, art. no. 120121, <a href="https://doi.org/10.1016/j.applthermaleng.2023.120121">https://doi.org/10.1016/j.applthermaleng.2023.120121</a></li>
+        <li>Rivero J.M., Hermanns M., Modeling the time evolution of geothermal boreholes during peak heating and cooling demands (2021) Journal of Physics: Conference Series, 2116 (1), art. no. 012101, <a href="https://doi.org/10.1088/1742-6596/2116/1/012101">https://doi.org/10.1088/1742-6596/2116/1/012101</a></li>
+        <li>Hermanns M., Rivero J.M., On the symmetry properties of the network of thermal resistances representing the thermal response of slender geothermal boreholes (2021) Geothermics, 94, art. no. 102078, <a href="https://doi.org/10.1016/j.geothermics.2021.102078">https://doi.org/10.1016/j.geothermics.2021.102078</a></li>
+        <li>Rivero J.M., Hermanns M., Enhanced multipole method for the transient thermal response of slender geothermal boreholes (2021) International Journal of Thermal Sciences, 164, art. no. 106531, <a href="https://doi.org/10.1016/j.ijthermalsci.2020.106531">https://doi.org/10.1016/j.ijthermalsci.2020.106531</a></li>
+        <li>Hermanns M., Rivero J.M., Modeling the thermal response of geothermal boreholes during peak heating and cooling demands (2020) IOP Conference Series: Earth and Environmental Science, 588 (2), art. no. 022052, <a href="https://doi.org/10.1088/1755-1315/588/2/022052">https://doi.org/10.1088/1755-1315/588/2/022052</a></li>
     </ul>
     <h1 class="has-text-centered has-text-primary">
         Semblanza
