@@ -93,7 +93,7 @@ show_sidebar: false
   <div class="person-block">
     <img loading="lazy" src="{{ site.baseurl }}/img/drcajas.webp" alt="profesor"/>
     <blockquote>
-        <a href="{{ site.baseurl }}/drcajas/">
+        <a href="{{ site.baseurl }}/planta_academica/drcajas/">
             <b>Dr. Juan Carlos<br/>Cajas García</b><br/><br/>
         </a>
         Profesor de Carrera Titular A<br/>
@@ -129,7 +129,7 @@ show_sidebar: false
   <div class="person-block">
     <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="profesor"/>
     <blockquote>
-        <a href="{{ site.baseurl }}/drrivero/">
+        <a href="{{ site.baseurl }}/planta_academica/drrivero/">
             <b>Dr. Juan Manuel<br/>Rivero Fernández</b><br/><br/>
         </a>
         Profesor de Carrera Asociado C<br/>
