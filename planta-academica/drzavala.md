@@ -14,7 +14,7 @@ show_sidebar: false
     </div>
     <div class="column has-text-centered">
         <h3 class="has-text-primary">
-            Dr. Juan Zavala Reyes
+            Dr. Juan de la Cruz Zavala Reyes
         </h3>
         <p class="has-text-weight-bold is-family-sans-serif">
             Profesor de Carrera Asociado C

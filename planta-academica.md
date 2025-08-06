@@ -143,7 +143,7 @@ show_sidebar: false
     <img loading="lazy" src="{{ site.baseurl }}/img/drzavala.webp" alt="profesor"/>
     <blockquote>
         <a href="{{ site.baseurl }}/planta-academica/drzavala/">
-            <b>Dr. Juan Zavala<br/>Reyes</b><br/><br/>
+            <b>Dr. Juan de la Cruz<br/>Zavala Reyes</b><br/><br/>
         </a>
         Profesor de Carrera Asociado C<br/>
     </blockquote>
