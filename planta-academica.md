@@ -96,7 +96,7 @@ show_sidebar: false
   <div class="person-block">
     <img loading="lazy" src="{{ site.baseurl }}/img/drcajas.webp" alt="profesor"/>
     <blockquote>
-        <a href="{{ site.baseurl }}/planta_academica/drcajas/">
+        <a href="{{ site.baseurl }}/planta-academica/drcajas/">
             <b>Dr. Juan Carlos<br/>Cajas García</b><br/><br/>
         </a>
         Profesor de Carrera Titular A<br/>
@@ -132,7 +132,7 @@ show_sidebar: false
   <div class="person-block">
     <img loading="lazy" src="{{ site.baseurl }}/img/drrivero.webp" alt="profesor"/>
     <blockquote>
-        <a href="{{ site.baseurl }}/planta_academica/drrivero/">
+        <a href="{{ site.baseurl }}/planta-academica/drrivero/">
             <b>Dr. Juan Manuel<br/>Rivero Fernández</b><br/><br/>
         </a>
         Profesor de Carrera Asociado C<br/>
@@ -140,11 +140,12 @@ show_sidebar: false
   </div>
 
   <div class="person-block">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Juan+Zavala" alt="organizer"/>
+    <img loading="lazy" src="{{ site.baseurl }}/img/drzavala.webp" alt="profesor"/>
     <blockquote>
-        <b>Dr. Juan Zavala Reyes</b><br/>
+        <a href="{{ site.baseurl }}/planta-academica/drzavala/">
+            <b>Dr. Juan Zavala<br/>Reyes</b><br/><br/>
+        </a>
         Profesor de Carrera Asociado C<br/>
-        PEE | Candidato SNI
     </blockquote>
   </div>
 

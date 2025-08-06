@@ -4,7 +4,7 @@
   link: /#
   dropdown:
     - name: Planta Académica
-      link: /academicos/
+      link: /planta-academica/
     - name: Nuestros Estudiantes
       link: /estudiantes/
 - name: Líneas de Investigación

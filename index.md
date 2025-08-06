@@ -13,7 +13,7 @@ show_sidebar: false
         Noticias
     </h2>
     <ul>
-        <li><strong>04.08.2025</strong> - 🎉 Felicitamos a nuestro colegas, al <a href="{{ site.baseurl }}/planta_academica/drcajas"><strong>Dr. Juan Carlos</strong></a> por su promoción al Nivel II del Sistema Nacional de Investigadoras e Investigadores y al <a href="{{ site.baseurl }}/planta_academica/drrivero"><strong>Dr. Juan Manuel</strong></a> por su Ingreso al Sistema Nacional de Investigadoras e Investigadores.</li>
+        <li><strong>04.08.2025</strong> - 🎉 Felicitamos a nuestro colegas, al <a href="{{ site.baseurl }}/planta-academica/drcajas"><strong>Dr. Juan Carlos</strong></a> por su promoción al Nivel II del Sistema Nacional de Investigadoras e Investigadores y al <a href="{{ site.baseurl }}/planta-academica/drrivero"><strong>Dr. Juan Manuel</strong></a> por su Ingreso al Sistema Nacional de Investigadoras e Investigadores.</li>
     </ul>
     <h1 class="has-text-primary">
         DEPARTAMENTO DE MATEMÁTICAS APLICADAS Y GEOCIENCIAS
