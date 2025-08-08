@@ -1,13 +1,13 @@
 - name: Sobre nosotros
-  link: /demag/
+  link: /sobre-nosotros/
 - name: Nuestra Gente
   link: /#
   dropdown:
     - name: Planta Académica
       link: /planta-academica/
     - name: Nuestros Estudiantes
-      link: /estudiantes/
+      link: /nuestros-estudiantes/
 - name: Líneas de Investigación
   link: /lineas-investigacion/
 - name: Artículos y Proyectos
-  link: /proyectos/
+  link: /articulos-proyectos/
