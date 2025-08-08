@@ -14,7 +14,7 @@ show_sidebar: false
     </div>
     <div class="column has-text-centered">
         <h3 class="has-text-primary">Dr. Juan Carlos Cajas García</h3>
-        <p class="has-text-weight-bold is-family-sans-serif">
+        <p class="has-text-weight-bold">
             Profesor Titular A de Tiempo Completo
             <br/>
                 PRIDE C | SNI II
@@ -30,7 +30,7 @@ show_sidebar: false
     <h1 class="has-text-centered has-text-primary">
         Líneas de Investigación
     </h1> 
-    <ul class="has-text-weight-bold is-family-sans-serif">
+    <ul class="has-text-weight-bold">
         <li>Interacción fluido-estructura.</li>
         <li>Dinámica de Fluidos Computacional.</li>
         <li>Programación paralela y cómputo de alto rendimiento.</li>
@@ -40,7 +40,7 @@ show_sidebar: false
         Proyectos
     </h1> 
     <ul>
-        <li class="has-text-weight-bold is-family-sans-serif">PAPIIT – IN109625: Dispositivo termosolar doméstico para una transición energética sostenible.</li>
+        <li class="has-text-weight-bold">PAPIIT – IN109625: Dispositivo termosolar doméstico para una transición energética sostenible.</li>
         <p class="has-text-justified is-italic">
             Se está diseñando un dispositivo termosolar para uso doméstico usando simulaciones en 	unidades de procesamiento gráfico multipropósito (GPUs)	para los problemas de mecánica 	de fluidos y transferencia de calor.
         </p>
@@ -48,7 +48,7 @@ show_sidebar: false
     <h1 class="has-text-centered has-text-primary">
         Artículos Recientes
     </h1> 
-    <ul class="mb-4 has-text-weight-bold is-family-sans-serif">
+    <ul class="mb-4 has-text-weight-bold">
         <li>Aspect ratio influence on the vortex induced vibrations of a pivoted finite height cylinder at low Reynolds number. J. C. Cajas, I. Rodríguez, E. Salcedo, O. Lehmkuhl, G. Houzeaux, C. Treviño, Physics of Fluids 1 August 2023; 35 (8): 083606, <a href="https://doi.org/10.1063/5.0164452">https://doi.org/10.1063/5.0164452</a></li>
         <li>Forest density is more effective than tree rigidity at reducing the onshore energy flux of tsunamis. Mukherjee, A., Cajas, J.C., Houzeaux, G., Lehmkuhl, O., Suckale, J., Marras, S. Coastal Engineering, Volume 182, 2023, 104286, ISSN 0378-3839, <a href="https://doi.org/10.1016/j.coastaleng.2023.104286">https://doi.org/10.1016/j.coastaleng.2023.104286</a></li>
         <li>On the Wake Dynamics of an Oscillating Cylinder via Proper Orthogonal Decomposition. Benet, E., Miró, A., Cajas, J.C., Lehmkuhl, O., Rodríguez, I., Fluids, Vol. 7, Issue 9, 2022, <a href="https://doi.org/10.3390/fluids7090292">https://doi.org/10.3390/fluids7090292</a></li>

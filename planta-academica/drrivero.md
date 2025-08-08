@@ -14,7 +14,7 @@ show_sidebar: false
     </div>
     <div class="column has-text-centered">
         <h3 class="has-text-primary">Dr. Juan Manuel Rivero Fernández</h3>
-        <p class="has-text-weight-bold is-family-sans-serif">
+        <p class="has-text-weight-bold">
             Profesor de Carrera Asociado C
             <br/>
             PEI | Candidato SNI
@@ -30,7 +30,7 @@ show_sidebar: false
     <h1 class="has-text-centered has-text-primary">
         Líneas de Investigación
     </h1> 
-    <ul class="has-text-weight-bold is-family-sans-serif">
+    <ul class="has-text-weight-bold">
         <li>Dinámica de fluidos computacional para flujos unidimensionales en tuberías.</li>
         <li>Movimiento en flujos dentro de tubos causado por convección natural.</li>
         <li>Problemas acoplados de fluido-dinámica y transferencia de calor.</li>
@@ -39,7 +39,7 @@ show_sidebar: false
         Proyectos
     </h1> 
     <ul>
-        <li class="has-text-weight-bold is-family-sans-serif">Chimenea solar e intercambiador de calor tierra-aire como sistema de climatización pasivo. Proyecto PAPIIT - Clave IA100225</li>
+        <li class="has-text-weight-bold">Chimenea solar e intercambiador de calor tierra-aire como sistema de climatización pasivo. Proyecto PAPIIT - Clave IA100225</li>
         <p class="has-text-justified is-italic">
             El presente proyecto aborda el tema de climatización de habitaciones por medio de un sistema de acondicionamiento de aire pasivo, que funcione utilizando dos elementos: por un lado un intercambiador de calor tierra-aire formado por tuberı́as verticales en U enterradas en el suelo; por otro lado chimeneas solares, tuberı́as negras en el techo que motivan la flotabilidad del aire al calentarlo en sus interiores, generando un efecto sifón que mueve el aire del intercambiador de calor del suelo.
         </p>
@@ -47,7 +47,7 @@ show_sidebar: false
     <h1 class="has-text-centered has-text-primary">
         Artículos Recientes
     </h1> 
-    <ul class="mb-4 has-text-weight-bold is-family-sans-serif">
+    <ul class="mb-4 has-text-weight-bold">
         <li>Rivero, J.M., Méndez Lavielle, F. Earth-air thermal siphon as a passive air-conditioning system for an arid climate (2023) International Journal of Heat and Mass Transfer, 210, 124171, <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2023.124171">https://doi.org/10.1016/j.ijheatmasstransfer.2023.124171</a></li>
         <li>Hermanns M., Rivero J.M., On the quasi-steady limit of the enhanced multipole method for the thermal response of geothermal boreholes (2023) Applied Thermal Engineering, 225, art. no. 120121, <a href="https://doi.org/10.1016/j.applthermaleng.2023.120121">https://doi.org/10.1016/j.applthermaleng.2023.120121</a></li>
         <li>Rivero J.M., Hermanns M., Modeling the time evolution of geothermal boreholes during peak heating and cooling demands (2021) Journal of Physics: Conference Series, 2116 (1), art. no. 012101, <a href="https://doi.org/10.1088/1742-6596/2116/1/012101">https://doi.org/10.1088/1742-6596/2116/1/012101</a></li>

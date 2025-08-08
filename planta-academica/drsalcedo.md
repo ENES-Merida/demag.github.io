@@ -16,7 +16,7 @@ show_sidebar: false
         <h3 class="has-text-primary">
             Dr. Erick Salcedo Álvarez
         </h3>
-        <p class="has-text-weight-bold is-family-sans-serif">
+        <p class="has-text-weight-bold">
             <em>Coordinador del Departamento de</em>
             <br/>
             <em>Matemáticas Aplicadas y Geociencias</em>
@@ -37,7 +37,7 @@ show_sidebar: false
     <h1 class="has-text-centered has-text-primary">
         Líneas de Investigación
     </h1> 
-    <ul class="has-text-weight-bold is-family-sans-serif">
+    <ul class="has-text-weight-bold">
         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
         <li>In id erat a sapien tincidunt sodales.</li>
         <li>Proin vitae risus eu magna pretium mattis.</li>
@@ -46,7 +46,7 @@ show_sidebar: false
         Proyectos
     </h1> 
     <ul>
-        <li class="has-text-weight-bold is-family-sans-serif">Aenean vel velit tristique, rhoncus nisl eget, euismod justo.</li>
+        <li class="has-text-weight-bold">Aenean vel velit tristique, rhoncus nisl eget, euismod justo.</li>
         <p class="has-text-justified is-italic">
             Vestibulum at tincidunt quam. Cras ultrices aliquam lacinia. Fusce quam neque, cursus commodo tincidunt nec, viverra ac tortor. Sed sed massa sit amet odio fringilla tempor. Nunc imperdiet tempus elit ac pretium. Maecenas nibh purus, lobortis eget dictum ac, ultricies ac massa. Morbi mollis at nisi eu laoreet. Nam ex felis, scelerisque id ipsum non, ultricies pretium ligula. Donec nec justo lacus. Cras nec mollis diam, quis ultricies tellus. 
         </p>
@@ -54,7 +54,7 @@ show_sidebar: false
     <h1 class="has-text-centered has-text-primary">
         Artículos Recientes
     </h1> 
-    <ul class="mb-4 has-text-weight-bold is-family-sans-serif">
+    <ul class="mb-4 has-text-weight-bold">
         <li>Ut a lorem ac ante porta aliquam sit amet eget neque.</li>
         <li>Nullam at turpis egestas, mattis magna eget, consectetur dolor.</li>
         <li>Ut accumsan purus eu ornare laoreet.</li>
