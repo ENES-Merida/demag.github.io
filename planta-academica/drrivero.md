@@ -17,7 +17,10 @@ show_sidebar: false
         <p class="has-text-weight-bold">
             Profesor de Carrera Asociado C
             <br/>
-            PEI | Candidato SNI
+            de Tiempo Completo
+            <br/>
+            <br/>
+            PEI | Candidato SNII
             <br/>
             <br/>
             <a href="mailto:jmanuel.rivero@enesmerida.unam.mx">

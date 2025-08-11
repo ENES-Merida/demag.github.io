@@ -78,9 +78,11 @@ show_sidebar: false
   </div>
 
   <div class="person-block">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Iris+Neri" alt="organizer"/>
+    <img loading="lazy" src="{{ site.baseurl }}/img/draneri.webp" alt="profesora"/>
     <blockquote>
-        <b>Dra. Iris Neri Flores</b><br/>
+        <a href="{{ site.baseurl }}/planta-academica/draneri/">
+            <b>Dra. Iris Neri Flores</b><br/><br/>
+        </a>
         Profesor de Carrera Asociado C
     </blockquote>
   </div>
