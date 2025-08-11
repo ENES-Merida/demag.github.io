@@ -81,7 +81,8 @@ show_sidebar: false
     <img loading="lazy" src="{{ site.baseurl }}/img/draneri.webp" alt="profesora"/>
     <blockquote>
         <a href="{{ site.baseurl }}/planta-academica/draneri/">
-            <b>Dra. Iris Neri Flores</b><br/><br/>
+            <b>Dra. Iris</b><br/> 
+            <b>Neri Flores</b><br/><br/>
         </a>
         Profesor de Carrera Asociado C
     </blockquote>
