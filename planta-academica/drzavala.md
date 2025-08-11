@@ -19,7 +19,10 @@ show_sidebar: false
         <p class="has-text-weight-bold">
             Profesor de Carrera Asociado C
             <br/>
-            PEE | Candidato SNI
+            de Tiempo Completo
+            <br/>
+            <br/>
+            PEE | Candidato SNII
             <br/>
             <br/>
             <a href="mailto:juan.zavala@enesmerida.unam.mx">

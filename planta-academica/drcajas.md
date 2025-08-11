@@ -15,9 +15,12 @@ show_sidebar: false
     <div class="column has-text-centered">
         <h3 class="has-text-primary">Dr. Juan Carlos Cajas García</h3>
         <p class="has-text-weight-bold">
-            Profesor Titular A de Tiempo Completo
+            Profesor de Carrera Titular A
             <br/>
-                PRIDE C | SNI II
+            de Tiempo Completo
+            <br/>
+            <br/>
+                PRIDE C | SNII II
             <br/>
             <br/>
             <a href="mailto:carlos.cajas@enesmerida.unam.mx">
