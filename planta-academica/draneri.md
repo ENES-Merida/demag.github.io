@@ -109,6 +109,21 @@ show_sidebar: false
         </li>
     </ul>
     <h1 class="has-text-centered has-text-primary">
+        Tesistas
+    </h1>
+    <ul>
+        <li class="has-text-weight-bold has-text-justified">
+            Consuelo Cecilia Roldán Ahuactzin.
+            <br/>
+            Tesis: <span class="has-text-weight-normal is-italic">Identificación de la tendencia de sequía en una cuenca endorreica y los niveles de agua subterránea. Caso de estudio Lago Totolcingo, Tlaxcala-Puebla, México.</span>
+            <ul class="has-text-weight-light is-italic">
+                <li>Tesis para obtener el título de Ingeniería Geóloga.</li>
+                <li>Escuela Superior de Ingeniería y Arquitectura.<br/>Unidad Ticomán. IPN. Ciudad de México.</li>
+                <li>Fecha: 27 agosto 2024.</li>
+            </ul>
+        </li>
+    </ul>
+    <h1 class="has-text-centered has-text-primary">
         Semblanza
     </h1>
     <p class="has-text-justified is-italic">
