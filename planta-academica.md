@@ -42,11 +42,13 @@ show_sidebar: false
   </div>
 
   <div class="person-block">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Cesar+Liera" alt="organizer"/>
+    <img loading="lazy" src="{{ site.baseurl }}/img/mtroCesarLiera.webp" alt="tecnicoAcademico"/>
     <blockquote>
-        <b>MC. César Alberto Liera Grijalva</b><br/>
-        Técnico Académico Asociado C<br/>
-        PEE | PEI
+        <a href="{{ site.baseurl }}/planta-academica/mtrocesar/">
+            <b>MC. César Alberto</b><br>
+            <b>Liera Grijalva</b><br><br>
+        </a>
+        Técnico Académico Asociado C
     </blockquote>
   </div>
 
@@ -82,7 +84,7 @@ show_sidebar: false
     <blockquote>
         <a href="{{ site.baseurl }}/planta-academica/draneri/">
             <b>Dra. Iris</b><br/> 
-            <b>Neri Flores</b><br/><br/>
+            <b>Neri Flores</b><br><br>
         </a>
         Profesor de Carrera Asociado C
     </blockquote>
@@ -102,7 +104,7 @@ show_sidebar: false
         <a href="{{ site.baseurl }}/planta-academica/drcajas/">
             <b>Dr. Juan Carlos<br/>Cajas García</b><br/><br/>
         </a>
-        Profesor de Carrera Titular A<br/>
+        Profesor de Carrera Titular A
     </blockquote>
   </div>
 
@@ -138,7 +140,7 @@ show_sidebar: false
         <a href="{{ site.baseurl }}/planta-academica/drrivero/">
             <b>Dr. Juan Manuel<br/>Rivero Fernández</b><br/><br/>
         </a>
-        Profesor de Carrera Asociado C<br/>
+        Profesor de Carrera Asociado C
     </blockquote>
   </div>
 
@@ -148,7 +150,7 @@ show_sidebar: false
         <a href="{{ site.baseurl }}/planta-academica/drzavala/">
             <b>Dr. Juan de la Cruz<br/>Zavala Reyes</b><br/><br/>
         </a>
-        Profesor de Carrera Asociado C<br/>
+        Profesor de Carrera Asociado C
     </blockquote>
   </div>
 
