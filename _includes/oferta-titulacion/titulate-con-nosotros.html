@@ -1,4 +1,50 @@
+<script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-element-bundle.min.js"></script>
 <div>
   <h3>Titulate con nosotros</h3>
   <p class="is-size-7">Titúlate con nosotros.</p>
+  <p>Tecnologías con las que trabajamos:</p>
 </div>
+<style>
+swiper-container {
+  padding: 2rem 0;
+}
+
+swiper-slide {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 100px;
+}
+swiper-slide img {
+  height: 100px;
+  width: 300px;
+  object-fit: contain;
+  display: block;
+}
+</style>
+<swiper-container loop="true" autoplay="true" slides-per-view="3" centered-slides="true">
+  <swiper-slide>
+      <img loading="lazy" src="{{ site.baseurl }}/img/tecnologias/wrffire.png" alt="wrf-fire"/>
+  </swiper-slide>
+  <swiper-slide>
+      <img loading="lazy" src="{{ site.baseurl }}/img/tecnologias/python.svg" alt="python"/>
+  </swiper-slide>
+  <swiper-slide>
+      <img loading="lazy" src="{{ site.baseurl }}/img/tecnologias/jupyter.svg" alt="jupyter"/>
+  </swiper-slide>
+  <swiper-slide>
+      <img loading="lazy" src="{{ site.baseurl }}/img/tecnologias/clawpack.jpg" alt="clawpack"/>
+  </swiper-slide>
+  <swiper-slide>
+      <img loading="lazy" src="{{ site.baseurl }}/img/tecnologias/fortran.svg" alt="c-language"/>
+  </swiper-slide>
+  <swiper-slide>
+      <img loading="lazy" src="{{ site.baseurl }}/img/tecnologias/geoclaw.jpg" alt="geoclaw"/>
+  </swiper-slide>
+  <swiper-slide>
+      <img loading="lazy" src="{{ site.baseurl }}/img/tecnologias/cpplang.svg" alt="c-language"/>
+  </swiper-slide>
+  <swiper-slide>
+      <img loading="lazy" src="{{ site.baseurl }}/img/tecnologias/clang.svg" alt="c-language"/>
+  </swiper-slide>
+</swiper-container>

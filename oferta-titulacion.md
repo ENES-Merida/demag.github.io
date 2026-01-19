@@ -86,7 +86,8 @@ show_sidebar: false
   });
 </script>
 <hr>
-<p class="has-text-justified">
-    <br>
-    La vigencia del registro del anteproyecto será de un año. En caso de transcurrir dicho periodo sin haber concluido el trabajo, el (la) sustentante podrá solicitar a su Comité Académico una renovación, que deberá ser avalada por el (la) asesor (a).
-</p>
+<p>A tener en cuenta:</p>
+<ul class="has-text-justified">
+    <li>Independientemente de los créditos requeridos para cada modalidad de titulación, se requiere tener al menos <strong>75 por ciento</strong> de avance curricular para iniciar a trabajar en tu proceso de titulación.</li>
+    <li>La vigencia del registro del anteproyecto de titulación, para todas las opciones, será de un año. En caso de transcurrir dicho periodo sin haber concluido el trabajo, el (la) sustentante podrá solicitar a su Comité Académico una renovación, que deberá ser avalada por el (la) asesor (a).</li>
+</ul>
