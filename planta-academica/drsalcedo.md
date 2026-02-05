@@ -8,6 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
+{% include notification.html message="Sitio bajo construcción, actualizaremos la información muy pronto." %}
 <div class="columns is-align-items-center is-multiline pb-6">
     <div class="column">
         <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Erick+Salcedo" alt="coordinador" class="academicos_imagen"/>
@@ -38,17 +39,17 @@ show_sidebar: false
         Líneas de Investigación
     </h1> 
     <ul class="has-text-weight-bold">
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-        <li>In id erat a sapien tincidunt sodales.</li>
-        <li>Proin vitae risus eu magna pretium mattis.</li>
+        <li>Dinámica de Fluidos Computacional (CFD) – Desarrollo e implementación de métodos numéricos para simulación de flujos complejos y fenómenos de transferencia.</li>
+        <li>Modelado del Sistema Tierra-Atmósfera – Implementación y parametrización de modelos de predicción numérica del tiempo para estudios de capa límite, transferencia de calor y fenómenos convectivos.</li>
+        <li>Transferencia de Calor y Energía – Análisis de fenómenos de convección natural y mixta utilizando modelado numérico junto con métodos de CFD de alta resolución en sistemas complejos.</li>
     </ul>
     <h1 class="has-text-centered has-text-primary">
         Proyectos
     </h1> 
     <ul>
-        <li class="has-text-weight-bold">Aenean vel velit tristique, rhoncus nisl eget, euismod justo.</li>
+        <li class="has-text-weight-bold">Proyecto PAPIT</li>
         <p class="has-text-justified is-italic">
-            Vestibulum at tincidunt quam. Cras ultrices aliquam lacinia. Fusce quam neque, cursus commodo tincidunt nec, viverra ac tortor. Sed sed massa sit amet odio fringilla tempor. Nunc imperdiet tempus elit ac pretium. Maecenas nibh purus, lobortis eget dictum ac, ultricies ac massa. Morbi mollis at nisi eu laoreet. Nam ex felis, scelerisque id ipsum non, ultricies pretium ligula. Donec nec justo lacus. Cras nec mollis diam, quis ultricies tellus. 
+             At tincidunt quam. Cras ultrices aliquam lacinia. Fusce quam neque, cursus commodo tincidunt nec, viverra ac tortor. Sed sed massa sit amet odio fringilla tempor. Nunc imperdiet tempus elit ac pretium. Maecenas nibh purus, lobortis eget dictum ac, ultricies ac massa. Morbi mollis at nisi eu laoreet. Nam ex felis, scelerisque id ipsum non, ultricies pretium ligula. Donec nec justo lacus. Cras nec mollis diam, quis ultricies tellus. 
         </p>
     </ul>
     <h1 class="has-text-centered has-text-primary">
@@ -66,11 +67,19 @@ show_sidebar: false
         Semblanza
     </h1>
     <p class="has-text-justified is-italic">
-        Morbi cursus sed metus at aliquam. Maecenas suscipit malesuada neque sed egestas. Mauris vitae dui elit. Nunc et nisi quis leo facilisis semper a at orci. Curabitur erat eros, pharetra vel lectus sagittis, interdum faucibus nisi. Quisque facilisis lacus nec tristique molestie. Vivamus quis ante quis nisl fermentum varius vitae in nisi. Vestibulum tempus ornare sapien vel accumsan. Nunc suscipit scelerisque tincidunt. Duis pellentesque lacinia neque at commodo. Morbi tempor vitae lacus non iaculis.
-    
-        Vestibulum sit amet metus sem. In efficitur justo quam, id efficitur velit laoreet nec. Nulla vitae felis ultricies, consectetur dolor ut, vehicula nisl. Aliquam facilisis finibus elit a pretium. Nam non diam vel nisl pharetra suscipit eu interdum mauris. Quisque vitae leo ut velit efficitur consequat vitae a purus. Nunc rutrum cursus elit nec aliquet. Sed at ligula nisl. Aenean consectetur sapien quis elit vehicula convallis. Donec molestie nunc id libero condimentum sollicitudin. Morbi non augue commodo tortor fermentum egestas.
-    
-        In hac habitasse platea dictumst. Etiam rutrum, ante ac venenatis tincidunt, urna quam lacinia dolor, sed pulvinar sem est in purus. In ut tincidunt arcu. Sed vel odio nec dolor bibendum vestibulum non in nibh. Suspendisse porttitor massa quis orci consequat, ac luctus arcu euismod. Sed lobortis eu libero ut auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed enim tortor, mattis nec odio at, vehicula hendrerit urna. Nullam elementum sem metus, ac hendrerit tellus viverra id. Nam consequat lobortis turpis eget tincidunt. Nullam luctus maximus est vulputate accumsan. Praesent nunc dui, efficitur eget tempus quis, auctor sit amet metus. Nam iaculis mauris non ultrices ornare. Sed in est faucibus, lacinia odio ac, venenatis lacus. 
+        Mi carrera profesional se ha desarrollado en la intersección entre la mecánica de fluidos y los métodos computacionales, con un enfoque en fenómenos de transporte y dinámica de flujos complejos. Mi formación en Ingeniería Aeronáutica me introdujo al estudio de flujos alrededor de cuerpos, interés que ha definido mi trayectoria investigativa.
+    </p>
+    <p class="has-text-justified is-italic">
+        Durante mi Maestría en Termofluidos, investigué experimentalmente la aerodinámica de semillas autorrotantes mediante la construcción de un túnel de viento vertical y la aplicación de técnicas de Velocimetría por Imágenes de Partículas (PIV). Este trabajo reveló el rol fundamental de los vórtices en el borde de ataque como mecanismo de sustentación en sistemas biológicos.
+    </p>
+    <p class="has-text-justified is-italic">
+        Mi investigación doctoral se centró en el estudio de convección mixta laminar alrededor de arreglos de cilindros, abordando el problema desde perspectivas numérica y experimental. Desarrollé un código de simulación en Fortran 90 implementando métodos de volúmenes finitos con paralelización OpenMP, mientras diseñaba experimentos PIV complementarios. Los resultados demostraron variaciones significativas en los patrones de estela (incluyendo desviaciones del clásico patrón de Von Kármán) bajo diferentes condiciones térmicas superficiales.
+    </p>
+    <p class="has-text-justified is-italic">
+        Como investigador posdoctoral en Caltech, trabajé en el grupo de Física de Fluidos Computacional desarrollando modelos de orden reducido y técnicas numéricas para el diseño de dispositivos de cosecha de energía basados en interacción fluido-estructura.
+    </p>
+    <p class="has-text-justified is-italic">
+        Actualmente, como profesor en la ENES Mérida, combino docencia e investigación en fenómenos atmosféricos, aplicando esta base multidisciplinaria al estudio de sistemas atmosféricos complejos.
     </p>
 </div>
 

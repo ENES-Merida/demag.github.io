@@ -17,9 +17,10 @@ show_sidebar: false
 <div class="coordinador-block">
     <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Erick+Salcedo" alt="coordinador"/>
     <blockquote>
-        <b>Dr. Erick Salcedo Álvarez</b><br/>
-        Profesor de Carrera Asociado C<br/>
-        PEE | SNI I
+        <a href="{{ site.baseurl }}/planta-academica/drsalcedo/">
+            <b>Dr. Erick Salcedo Álvarez</b><br/>
+        </a>
+        Profesor de Carrera Asociado C
     </blockquote>
 </div>
 
