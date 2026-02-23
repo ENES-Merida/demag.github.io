@@ -25,7 +25,7 @@ show_sidebar: false
             <br/>
             Profesor de Carrera Asociado C
             <br/>
-            PEI | Candidato SNI
+            PRIDE B | SNI I
             <br/>
             <br/>
             <a href="mailto:erick.salcedo@enesmerida.unam.mx">
@@ -47,21 +47,25 @@ show_sidebar: false
         Proyectos
     </h1> 
     <ul>
-        <li class="has-text-weight-bold">Proyecto PAPIT</li>
-        <p class="has-text-justified is-italic">
+        <li class="has-text-weight-bold">PAPIIT – IN109625: Dispositivo termosolar doméstico para una transición energética sostenible.</li>
+        <!--<p class="has-text-justified is-italic">
+            Se está diseñando un dispositivo termosolar para uso doméstico usando simulaciones en 	unidades de procesamiento gráfico multipropósito (GPUs)	para los problemas de mecánica 	de fluidos y transferencia de calor.
+        </p>-->
+        <li class="has-text-weight-bold">PAPIIT - IA105723: Variabilidad de las brisas marinas sobre la costa de la península de Yucatán y su interacción con la surgencia de Yucatán.</li>
+        <li class="has-text-weight-bold">LANCAD-UNAM: Estudio de flujos convectivos de la baja atmósfera sobre la península de Yucatán.</li>
+        <!--<p class="has-text-justified is-italic">
              At tincidunt quam. Cras ultrices aliquam lacinia. Fusce quam neque, cursus commodo tincidunt nec, viverra ac tortor. Sed sed massa sit amet odio fringilla tempor. Nunc imperdiet tempus elit ac pretium. Maecenas nibh purus, lobortis eget dictum ac, ultricies ac massa. Morbi mollis at nisi eu laoreet. Nam ex felis, scelerisque id ipsum non, ultricies pretium ligula. Donec nec justo lacus. Cras nec mollis diam, quis ultricies tellus. 
-        </p>
+        </p>-->
     </ul>
     <h1 class="has-text-centered has-text-primary">
         Artículos Recientes
     </h1> 
     <ul class="mb-4 has-text-weight-bold">
-        <li>Ut a lorem ac ante porta aliquam sit amet eget neque.</li>
-        <li>Nullam at turpis egestas, mattis magna eget, consectetur dolor.</li>
-        <li>Ut accumsan purus eu ornare laoreet.</li>
-        <li>Etiam semper turpis quis metus ultricies, ac luctus metus suscipit.</li>
-        <li>Pellentesque ut urna posuere, finibus ipsum quis, viverra purus.</li>
-        <li>Donec tincidunt turpis eu lacinia condimentum.</li>
+        <li><span class="is-underlined">E. Salcedo</span>, J.C. Cajas, C. Trevino, L. Martínez Suástegui, Magnetohydrodynamic instability in a partially heated vertical channel, International Journal of Heat and Fluid Flow, International Journal of Heat and Fluid Flow, Vol. 110, 109661, 2024, https://doi.org/10.1016/j.ijheatfluidflow.2024.109661.</li>
+        <li>J.C. Cajas, I. Rodriguez, <span class="is-underlined">E. Salcedo</span>, O. Lehmkuhl, G. Houzeaux, C. Treviño, Aspect ratio influence on the vortex induced vibrations of a pivoted finite height cylinder at low Reynolds number, Physics of Fluids, Vol. 35, 083606, 2023, doi: https://doi.org/10.1063/5.0164452</li>
+        <li>D. Sachica, <span class="is-underlined">E. Salcedo</span>, C. Treviño, L. Martínez-Suástegui, Magnetohydrodynamic mixed convection and entropy generation analysis of Al2O3-water nanofluid past a confined circular cylinder, Int. Journal of Mechanical Sciences, Vol. 230, 107542, 2022, doi: https://doi.org/10.1016/j.ijmecsci.2022.107542</li>
+        <li>F. García, C. Trevino, <span class="is-underlined">E. Salcedo</span>, L. Martínez Suástegui, Numerical investigation on buoyancy and inclination effects on transient mixed convection in a channel with discretely heated plane symmetric contraction-expansions, Int. Journal of Thermal Sciences, Vol. 146, 106056, 2019, doi:10.1016/j.ijthermalsci.2019.106056</li>
+        <li><span class="is-underlined">E. Salcedo</span>, C. Trevino, C. Palacios-Morales, R. Zenit, L. Martínez-Suástegui, Experimental study on laminar flow over two confined isothermal cylinders in tandem during mixed convection, Int. Journal of Thermal Sciences, Vol. 115, pp 176-196, 2017, doi:10.1016/j.ijthermalsci.2017.01.015.</li>
     </ul>
     <h1 class="has-text-centered has-text-primary">
         Semblanza
