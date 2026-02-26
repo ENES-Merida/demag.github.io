@@ -8,7 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-{% include notification.html message="Sitio bajo construcción, actualizaremos la información muy pronto." %}
+<!-- {% include notification.html message="Sitio bajo construcción, actualizaremos la información muy pronto." %} -->
 <div class="tabs is-centered is-boxed mb-5" id="OfertaTitulacion">
   <ul>
     <li class="is-active" data-target="home-titulacion">
