@@ -11,7 +11,7 @@ show_sidebar: false
 <!-- {% include notification.html message="Sitio bajo construcción, actualizaremos la información muy pronto." %} -->
 <div class="columns is-align-items-center is-multiline pb-6">
     <div class="column">
-        <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Erick+Salcedo" alt="coordinador" class="academicos_imagen"/>
+        <img loading="lazy" src="{{ site.baseurl }}/img/drsalcedo.webp" alt="coordinador" class="academicos_imagen"/>
     </div>
     <div class="column has-text-centered">
         <h3 class="has-text-primary">

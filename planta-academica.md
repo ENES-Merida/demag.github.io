@@ -15,7 +15,7 @@ show_sidebar: false
 ---
 
 <div class="coordinador-block">
-    <img loading="lazy" src="https://avatar.iran.liara.run/username?username=Erick+Salcedo" alt="coordinador"/>
+    <img loading="lazy" src="{{ site.baseurl }}/img/drsalcedo.webp" alt="coordinador"/>
     <blockquote>
         <a href="{{ site.baseurl }}/planta-academica/drsalcedo/">
             <b>Dr. Erick Salcedo Álvarez</b><br/>
