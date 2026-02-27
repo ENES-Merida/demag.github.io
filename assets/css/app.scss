@@ -64,10 +64,16 @@ $container-max-width: 1024px;  // Por ejemplo, un ancho máximo de 960px
     border-left: 4px solid #ccc;
     padding-left: 16px;
     color: #555;
-    height: auto;
+    height: 380px;
     width: 100%;
-    max-width: 500px;
-    margin: 0 auto;
+    max-width: 400px;
+    display: grid;
+  // Centrado perfecto sin distribución
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  // Centra el bloque verticalmente
+    align-items: center;  // Espaciado controlado solo con br
+    line-height: 1.2;
   }
 }
 
