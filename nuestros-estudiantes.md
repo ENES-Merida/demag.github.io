@@ -17,7 +17,7 @@ show_sidebar: false
     <blockquote>
         <strong class="has-text-primary"> Karla Aracely Figueroa Pérez</strong>
         <em>Estudiante de Maestría</em>
-        <em>Posgrado en Ingeniería - UNAM</em><br/>
+        <em>Posgrado en Ciencias de la Tierra - UNAM</em><br/>
         <strong class="has-text-primary">Tesista</strong><br/>
         <div class="has-text-justified">
             <strong class="has-text-primary">Proyecto de Tesis:</strong><br/>
