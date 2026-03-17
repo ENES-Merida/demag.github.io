@@ -13,6 +13,9 @@ show_sidebar: false
         Noticias
     </h2>
     <ul>
+        <li><strong>17.03.2026</strong> - 🎉 Felicitamos a la estudiante de maestría, <a href="{{ site.baseurl }}/nuestros-estudiantes#karlaFig"><strong>LM. Karla Aracely Figueroa Pérez</strong></a> y a su director de tesis el <a href="{{ site.baseurl }}/planta-academica/drcajas"><strong>Dr. Juan Carlos</strong></a>, por la reciente publicación de su artículo nombrado: <a href="{{ site.baseurl }}/articulos-proyectos#karlaFig"><em>Added mass estimation for a pivoted cylinder undergoing vortex induced vibrations</em></a>, en la Revista Mexicana de Física.</li>
+    </ul>
+    <ul>
         <li><strong>04.08.2025</strong> - 🎉 Felicitamos a nuestro colegas, al <a href="{{ site.baseurl }}/planta-academica/drcajas"><strong>Dr. Juan Carlos</strong></a> por su promoción al Nivel II del Sistema Nacional de Investigadoras e Investigadores y al <a href="{{ site.baseurl }}/planta-academica/drrivero"><strong>Dr. Juan Manuel</strong></a> por su Ingreso al Sistema Nacional de Investigadoras e Investigadores.</li>
     </ul>
     <h1 class="has-text-primary">

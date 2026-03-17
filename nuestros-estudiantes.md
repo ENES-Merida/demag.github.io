@@ -12,7 +12,7 @@ show_sidebar: false
 
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px;">
-  <div class="alumnos-block">
+  <div id="karlaFig" class="alumnos-block">
     <img loading="lazy" src="{{ site.baseurl }}/img/matkarla.webp" alt="estudiante"/>
     <blockquote>
         <strong class="has-text-primary"> Karla Aracely Figueroa Pérez</strong>
@@ -27,7 +27,7 @@ show_sidebar: false
         </div>
     </blockquote>
   </div>
-  <div class="alumnos-block">
+  <div id="luciano" class="alumnos-block">
     <img loading="lazy" src="{{ site.baseurl }}/img/josecaamal.webp" alt="estudiante"/>
     <blockquote>
         <strong class="has-text-primary">José Luciano Caamal Ayala</strong>
@@ -42,7 +42,7 @@ show_sidebar: false
         </div>
     </blockquote>
   </div>
-  <div class="alumnos-block">
+  <div id="angelPorras" class="alumnos-block">
     <img loading="lazy" src="{{ site.baseurl }}/img/joseAngel.webp" alt="estudiante"/>
     <blockquote>
         <strong class="has-text-primary">José Ángel Porras González</strong>
