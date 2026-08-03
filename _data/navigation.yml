@@ -10,7 +10,12 @@
 - name: Líneas de Investigación
   link: /lineas-investigacion/
 - name: Artículos y Proyectos
-  link: /articulos-proyectos/
+  link: /#
+  dropdown:
+    - name: Planta Académica
+      link: /articulos-proyectos-academicos/
+    - name: Nuestros Estudiantes
+      link: /articulos-proyectos-estudiantes/
 - name: Titúlate con Nosotros
   link: /#
   dropdown:

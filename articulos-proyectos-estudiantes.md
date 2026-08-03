@@ -11,14 +11,14 @@ show_sidebar: false
 <!--{% include notification.html message="Sitio bajo construcción, actualizaremos la información muy pronto." %}-->
 <div class="content">
     <h2>Artículos Publicados de nuestros estudiantes:</h2>
-    <table>
+    <table class="table is-hoverable publications-table">
         <thead>
             <tr>
-                <th>Título</th>
-                <th>Autor(es)</th>
-                <th>Revista</th>
-                <th>DOI</th>
-                <th>Fecha de publicación</th>
+                <th class="has-text-centered" style="vertical-align: middle;">Título</th>
+                <th class="has-text-centered" style="vertical-align: middle;">Autor(es)</th>
+                <th class="has-text-centered" style="vertical-align: middle;">Revista</th>
+                <th class="has-text-centered" style="vertical-align: middle;">DOI</th>
+                <th class="has-text-centered" style="vertical-align: middle;">Fecha de publicación</th>
             </tr>
         </thead>
         <tbody>

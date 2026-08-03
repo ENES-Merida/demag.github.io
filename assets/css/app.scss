@@ -115,5 +115,45 @@ $container-max-width: 1024px;  // Por ejemplo, un ancho máximo de 960px
   background-color: var(--bulma-primary-20);
 }
 
+// Publicaciones
+.publications-table {
+    table-layout: fixed;
+}
+
+.publications-table th,
+.publications-table td {
+    padding: 1rem 1.25rem;
+    vertical-align: top;
+}
+
+.publications-table th:nth-child(1),
+.publications-table td:nth-child(1) {
+    width: 32%;
+}
+
+.publications-table th:nth-child(2),
+.publications-table td:nth-child(2) {
+    width: 18%;
+}
+
+.publications-table th:nth-child(3),
+.publications-table td:nth-child(3) {
+    width: 15%;
+}
+
+.publications-table th:nth-child(4),
+.publications-table td:nth-child(4) {
+    width: 20%;
+}
+
+.publications-table th:nth-child(5),
+.publications-table td:nth-child(5) {
+    width: 15%;
+}
+
+.publications-table td:nth-child(4) a {
+    overflow-wrap: anywhere;
+}
+
 // Import Main CSS file from theme
 @import "main";
