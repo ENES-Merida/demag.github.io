@@ -14,10 +14,11 @@ show_sidebar: false
     </h2>
     <ul>
         <li>
-            <strong>27.07.2026</strong> - 🎉 Felicitamos a nuestro colega, <a href="{{ site.baseurl }}/planta-academica/drsalcedo"><strong>Dr. Erick Salcedo Álvarez</strong></a>, por la reciente publicación de su artículo titulado: <a href="{{ site.baseurl }}/articulos-proyectos-academicos#ESalcedo"><em>Sensitivity of sea breeze dynamics to uniform and localized SST anomalies over the Northern Yucatán Peninsula</em></a>, en la revista <em>Atmospheric Reserch</em>.</li>
+            <strong>27.07.2026</strong> - 🎉 Felicitamos a nuestro colega, <a href="{{ site.baseurl }}/planta-academica/drsalcedo"><strong>Dr. Erick Salcedo Álvarez</strong></a>, por la reciente publicación de su artículo titulado: <a href="{{ site.baseurl }}/articulos-proyectos-academicos#ESalcedo"><em>Sensitivity of sea breeze dynamics to uniform and localized SST anomalies over the Northern Yucatán Peninsula</em></a>, en la revista <em>Atmospheric Reserch</em>.
         </li>
         <li>
-            <strong>17.03.2026</strong> - 🎉 Felicitamos a la estudiante de maestría, <a href="{{ site.baseurl }}/nuestros-estudiantes#karlafig"><strong>LM. Karla Aracely Figueroa Pérez</strong></a> y a su director de tesis el <a href="{{ site.baseurl }}/planta-academica/drcajas"><strong>Dr. Juan Carlos</strong></a>, por la reciente publicación de su artículo nombrado: <a href="{{ site.baseurl }}/articulos-proyectos#karlafig"><em>Added Mass Estimation for a Pivoted Cylinder undergoing Vortex Induced Vibrations</em></a>, en la <em>Revista Mexicana de Física</em>.</li>
+            <strong>17.03.2026</strong> - 🎉 Felicitamos a la estudiante de maestría, <a href="{{ site.baseurl }}/nuestros-estudiantes#karlafig"><strong>LM. Karla Aracely Figueroa Pérez</strong></a> y a su director de tesis el <a href="{{ site.baseurl }}/planta-academica/drcajas"><strong>Dr. Juan Carlos</strong></a>, por la reciente publicación de su artículo nombrado: <a href="{{ site.baseurl }}/articulos-proyectos#karlafig"><em>Added Mass Estimation for a Pivoted Cylinder undergoing Vortex Induced Vibrations</em></a>, en la <em>Revista Mexicana de Física</em>.
+        </li>
     </ul>
     <h1 class="has-text-primary">
         DEPARTAMENTO DE MATEMÁTICAS APLICADAS Y GEOCIENCIAS

@@ -18,11 +18,11 @@ show_sidebar: false
             Dr. Erick Salcedo Álvarez
         </h3>
         <p class="has-text-weight-bold">
-            <em>Coordinador del Departamento de</em>
-            <br/>
-            <em>Matemáticas Aplicadas y Geociencias</em>
-            <br/>
-            <br/>
+            <!-- <em>Coordinador del Departamento de</em> -->
+            <!-- <br/> -->
+            <!-- <em>Matemáticas Aplicadas y Geociencias</em> -->
+            <!-- <br/> -->
+            <!-- <br/> -->
             Profesor de Carrera Asociado C
             <br/>
             PRIDE B | SNI I
